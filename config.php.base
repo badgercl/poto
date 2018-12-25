@@ -1,0 +1,12 @@
+<?php
+
+// Bot details
+$token = ""; //Telegram bot token
+$bot_username = ""; //without @ 
+
+// MySQL credentials
+$db_name = ""; 
+$db_user = "";
+$db_pass = "";
+$db_host = "";
+
